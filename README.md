@@ -1,4 +1,4 @@
-# Ex. No. 1.-SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
+![image](https://github.com/Sajetha13/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/138849316/87a84cec-76d0-4ada-8895-323068338bd5)# Ex. No. 1.-SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 
 
@@ -53,7 +53,7 @@
 
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/Sajetha13/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/138849316/fff2fb69-3f07-4949-8912-2c3e18027bb7)
 
 
 ### Name: S.Sajetha
